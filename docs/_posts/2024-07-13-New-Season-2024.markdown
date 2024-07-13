@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Welcome to 2024 Season"
+date:   2024-07-13 10:46:08 -0600
+categories: jekyll update
+---
+
+Preparations are beginning for the annual No Pun League Member Referendum.
+Topics under consideration will include:
+1. Draft date
+2. League dues
+3. Rule change proposals
+4. Sacko punishment for 2025
+
+The referendum vote will be open 8/11/2024 - 8/18/2024. 
+[Submission is open now until 8/11/2024 for items to be added to the ballot][1].
+
+
+[1]:https://forms.gle/uvhFHMzCuoUHYXAv6
