@@ -23,8 +23,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   No puns, no cargo shorts, no backpacks
   #baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://majedo-net.github.io/npl/" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: /npl/docs
-domain: majedo-net.github.io/npl
 # Build settings
 theme: minima
 plugins:
