@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Welcome to the 2025 Off-season"
+date:   2025-07-13 10:46:08 -0600
+categories: jekyll update
+---
+
+The 2025 NFL off-season continues to drag on unbearably and the Chicago Bears have declared themselves off-season champs, as usual. 
+Congratulations to them on this accomplishment. 
+
+Despite valiant efforts by your dignified commissioner to rally his team all the way to the 2024 championship game, the "Hot Piss Powered Locomotives" ultimately fell to "Is She A Waterpark?" coached by Chadwick Newell. 
+Many people are concerned by the commissioners second time losing the championship game in only four post-merger seasons of the No Pun League, going so far as to call them "The Buffalo Bills of the NPL". 
+The commissioner is particularly troubled by this unflattering comparison. 
+But the winds of change are blowing, and no that isn't just the normal stench of Greeley/Brookfield/Canada/whatever the smelliest municipality is in your area. 
+This is your chance to partake in the NPL legislative process and propose rule changes for the 2025 member referendum. 
+A brief review of the NPL referendum process is as follows:
+1. Commissioner will open a request for rule change proposals form for several weeks. Members may submit rule change proposals which will be voted on for adoption in the member referendum. **This includes loser punishments** and any other administrative rule changes in addition to fantasy football rule changes such as scoring, drafting, and roster construction. 
+2. The referendum form will be opened for voting at least 3 weeks before the earliest possible draft date. In addition to any proposed rule changes, the referendum will include a poll for draft date availability and league dues. 
+3. Rule changes will be enacted, if applicable, and draft will be held as usual.
+> [2025 Rule Change Proposals][1].
+
+We have already discussed the top of the 2024 leader board, but we should not neglect the bottom. 
+The 2024 sacko is proudly awarded to "That's What Cheesehead" coached by Joe Gantenbein. 
+The league members have elected to have the sacko punishment be a 5 minute stand up comedy open mic performance. 
+They are rumors of this event coming to fruition in the near future, but we as members should not forget to enforce the sacko punishment. 
+Although the glory of victory is a noble pursuit, it is truly the shame of the sacko and taunting the pitiful loser that makes the NPL great. 
+On a related note, please join me in honoring the storied history of the NPL sacko by visiting our [archives]({% link archive.markdown %}).
+
+I am continually amazed that you all enjoy spending the time to assemble absolutely dismal fantasy football teams, year after year, but look forward to watching the chaos unfold once again.
+
+[1]:https://forms.gle/Gpu9WSSkxJ87fAHd6
