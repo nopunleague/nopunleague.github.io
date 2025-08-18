@@ -1,1 +1,3 @@
-Please respond to the member referendum [here]{https://forms.gle/g9RvLcC9imxP18ms6} before 10pm CST on August 28, 2025.
+Please respond to the member referendum [here][1] before 10pm CST on August 28, 2025.
+
+[1]:https://forms.gle/g9RvLcC9imxP18ms6
