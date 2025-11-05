@@ -9,6 +9,8 @@ The numbers next to your team name are your average point scored per player at t
 
 # QB 
 ---
+
+
 | Team Name | Average Score |
 | ----------| --------------|
 |That's What Cheesehead   |         21.760000|
@@ -23,6 +25,8 @@ The numbers next to your team name are your average point scored per player at t
 |Purdy Boutte             |       15.780000|
 |Half Chubb               |       14.555556|
 |Hot Piss Powered Locomotives |   10.186250|
+
+
 
 # RB 
 ---
