@@ -30,6 +30,8 @@ The numbers next to your team name are your average point scored per player at t
 
 # RB 
 ---
+
+
 | Team Name | Average Score |
 | ----------| --------------|
 |Stinky  Red Dogs                |17.584615|
@@ -45,8 +47,12 @@ The numbers next to your team name are your average point scored per player at t
 |She Gibbs Good Head             |10.067647|
 |Half Chubb                      | 9.765217|
 
+
+
 # WR 
 --- 
+
+
 | Team Name | Average Score |
 | ----------| --------------|
 |Nakua Matata                    |17.967647|
@@ -62,8 +68,12 @@ The numbers next to your team name are your average point scored per player at t
 |Team Idlas Idlas                |10.710667|
 |Half Chubb                      | 8.802778|
 
+
+
 # TE 
 --- 
+
+
 | Team Name | Average Score |
 | ----------| --------------|
 |That's What Cheesehead          |15.288889|
@@ -79,8 +89,12 @@ The numbers next to your team name are your average point scored per player at t
 |Purdy Boutte                    | 6.114286|
 |Stinky  Red Dogs                | 4.069231|
 
+
+
 # D/ST 
 --- 
+
+
 | Team Name | Average Score |
 | ----------| --------------|
 |Is She a Waterpark?             |11.666667|
@@ -96,8 +110,12 @@ The numbers next to your team name are your average point scored per player at t
 |Team Schwan                     | 4.777778|
 |Half Chubb                      | 4.000000|
 
+
+
 # K 
 --- 
+
+
 | Team Name | Average Score |
 | ----------| --------------|
 |Team Schwan                     |10.555556|
@@ -112,3 +130,5 @@ The numbers next to your team name are your average point scored per player at t
 |That's What Cheesehead          | 7.777778|
 |Is She a Waterpark?             | 6.555556|
 |Purdy Boutte                    | 4.888889|
+
+
