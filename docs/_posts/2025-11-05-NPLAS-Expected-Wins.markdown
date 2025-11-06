@@ -12,6 +12,7 @@ Actual wins are self-explanatory.
 The results are shown in the figure below. 
 
 <img src="{{site.baseurl | prepend: site.url}}/dash/exp_wins.png" alt="untitled" />
+
 ![Expected wins vs actual wins plot](/dash/exp_wins.png)
 
 As expected, my team is gettting screwed. 
