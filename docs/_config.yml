@@ -23,6 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   No puns, no cargo shorts, no backpacks
   #baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nopunleague.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: 'nopunleague.github.io/'
 # Build settings
 theme: minima
 plugins:
