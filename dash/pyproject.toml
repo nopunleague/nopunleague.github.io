@@ -8,4 +8,5 @@ dependencies = [
     "espn-api>=0.45.1",
     "matplotlib>=3.10.7",
     "pandas>=2.3.3",
+    "scienceplots>=2.1.1",
 ]
