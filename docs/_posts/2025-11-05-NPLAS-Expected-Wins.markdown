@@ -14,3 +14,15 @@ Actual wins are self-explanatory.
 The results are shown in the figure below. 
 
 ![Expected wins vs actual wins plot](/dash/exp_wins.png)
+
+As expected, my team is gettting screwed. 
+Also worth noting, we are collectively underfperforming in matchups against Steve and Troy. 
+Pull it together everyone.
+
+
+# Projected Points vs Actual Points
+It is no secret that some of you are excessively beholden to ESPN and whatever nonsense they might publish, but who among us is fooled by the projected scoring? 
+Here, the projected points is your total projected points in your starting lineup thus far.
+Actual points is your total points scored by starting lineup. 
+
+![Projected points vs actual points plot](/dash/Underperformance.png)
