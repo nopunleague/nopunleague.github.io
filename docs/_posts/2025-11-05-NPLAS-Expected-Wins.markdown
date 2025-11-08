@@ -1,3 +1,4 @@
+{% include mathjs %}
 
 We are back with another edition of *NPL Next-gen Stats*, this time demonstrating mathematically that my team is actually good and you are all just super lucky. 
 
