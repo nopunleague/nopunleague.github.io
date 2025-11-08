@@ -23,4 +23,4 @@ It is no secret that some of you are excessively beholden to ESPN and whatever n
 Here, the projected points is your total projected points in your starting lineup thus far.
 Actual points is your total points scored by starting lineup. 
 
-![Projected points vs actual points plot](/dash/Underperformance.png)
+![Projected points vs actual points plot]({{ site.url }}/media/Underperformance.png)
