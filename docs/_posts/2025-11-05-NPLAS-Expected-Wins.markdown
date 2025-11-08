@@ -11,7 +11,7 @@ In other words, if you have the highest score your expected wins are 1.0. If you
 Actual wins are self-explanatory.
 The results are shown in the figure below. 
 
-![Expected wins vs actual wins plot]({{ site.url }}/dash/exp_wins.png)
+![Expected wins vs actual wins plot]({{ site.url }}/media/exp_wins.png)
 
 As expected, my team is gettting screwed. 
 Also worth noting, we are collectively underfperforming in matchups against Steve and Troy. 
