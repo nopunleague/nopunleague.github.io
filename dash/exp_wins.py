@@ -25,7 +25,7 @@ for team in league.teams:
 
 Nteams = len(league.teams)
 
-for week_num in range(1,10):
+for week_num in range(1,15):
     matchups = league.box_scores(week_num)
     # get everyones scores for the week 
     for match in matchups:
@@ -58,18 +58,18 @@ fig,ax = plt.subplots(1,1,figsize=(10,8))
 
 ax.set_ylabel('Expected Wins')
 ax.set_xlabel('Actual Wins')
-ax.set_xlim([0, 10])
-ax.set_ylim([0, 10])
+ax.set_xlim([0, 16])
+ax.set_ylim([0, 16])
 cax = ax.scatter(psdf['act_wins'],
            psdf['exp_wins'],
            c=(psdf['act_wins']-psdf['exp_wins']),
            cmap='coolwarm')
 
-ax.plot([0,10],[0,10],'k--')
+ax.plot([0,16],[0,16],'k--')
 
 # zoomed inset 
 x1, x2, y1, y2 = 4.5, 6.5, 4.75, 6
-axins = ax.inset_axes(
+'''axins = ax.inset_axes(
     bounds=[0.6, 0.05, 0.3, 0.3],
     xlim=(x1, x2), ylim=(y1,y2))
 
@@ -79,23 +79,25 @@ axins.scatter(psdf['act_wins'],
            cmap='coolwarm')
 
 ax.indicate_inset_zoom(axins,edgecolor='black')
+'''
 for team in league.teams:
     roangle = 40
     if team.team_name == 'Team Tripp': roangle = 20
     ax.annotate(team.team_name,
                 [psdf['act_wins'][team.team_name],psdf['exp_wins'][team.team_name]],
                 rotation=roangle)
-    axins.annotate(team.team_name,
+    '''axins.annotate(team.team_name,
                 [psdf['act_wins'][team.team_name],psdf['exp_wins'][team.team_name]],
                 rotation=roangle)
+    '''
 
-ax.annotate('Unlucky Halfspace',[3,9],size='x-large',weight='heavy')
-ax.annotate('Lucky Halfspace', [3,1.5],size='x-large',weight='heavy')
+ax.annotate('Unlucky Halfspace',[3,12],size='x-large',weight='heavy')
+ax.annotate('Lucky Halfspace', [8,1.5],size='x-large',weight='heavy')
 
 cbar = fig.colorbar(cax,ticks=[-2.5, 1])
 cbar.ax.set_yticklabels(['Fucked by schedule', 'Helped by schedule'])
 
-fig.savefig('exp_wins.png')
+fig.savefig('exp_wins_2.png')
 
 # Underperformance Figure 
 fig,ax = plt.subplots(1,1,figsize=(10,8))
@@ -105,10 +107,10 @@ cax = ax.scatter(psdf['total_points'],
                  psdf['proj_points'],
                  c=(psdf['total_points']-psdf['proj_points']),
                  cmap='coolwarm')
-ax.plot([800, 1400],[800, 1400],'k--')
+ax.plot([1300, 2200],[1300, 2200],'k--')
 
 # zoomed inset 
-x1, x2, y1, y2 = 1150, 1225, 1150, 1225 
+x1, x2, y1, y2 = 1650, 1975, 1650, 1975 
 axins = ax.inset_axes(
     bounds=[0.6, 0.05, 0.3, 0.3],
     xlim=(x1, x2), ylim=(y1,y2))
@@ -129,11 +131,11 @@ for team in league.teams:
                 [psdf['total_points'][team.team_name],psdf['proj_points'][team.team_name]],
                 rotation=roangle-40)
 
-ax.annotate('Unlucky Halfspace',[900,1350],size='x-large',weight='heavy')
-ax.annotate('Lucky Halfspace', [900,850],size='x-large',weight='heavy')
+#ax.annotate('Unlucky Halfspace',[900,1350],size='x-large',weight='heavy')
+#ax.annotate('Lucky Halfspace', [900,850],size='x-large',weight='heavy')
 
-cbar = fig.colorbar(cax,ticks=[-150, 50])
+cbar = fig.colorbar(cax,ticks=[-180, 20])
 cbar.ax.set_yticklabels(['Fooled by ESPN', 'Spites lizard people'])
-fig.savefig('Underperformance.png')
+fig.savefig('Underperformance_2.png')
 
 
