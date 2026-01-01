@@ -124,6 +124,8 @@ ESPN just lumps these together into a single score and it would throw everything
  | ('james cho', 2021)        |         8 |    7.5 | 101.299 |
 
 ## All-time Averages by Owner
+--- 
+
 | owner            |   team_id |    week |   score |
  |:-----------------|----------:|--------:|--------:|
  | Troy Vandevoort  |         1 | 8.5     | 148.889 |
