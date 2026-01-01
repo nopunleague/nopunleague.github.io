@@ -12,6 +12,8 @@ One note about all of the scoring stats here is that we have to omit the champio
 ESPN just lumps these together into a single score and it would throw everything off, so those two weeks are unfortunately omitted from everything shown here.
 
 ## Highest Scoring Weeks
+--- 
+
 |index |   team_id | owner            |   year |   week |   score |
 |----:|----------:|:-----------------|-------:|-------:|--------:|
 | 737 |         1 | Troy Vandevoort  |   2024 |     15 |  212.58 |
@@ -36,6 +38,8 @@ ESPN just lumps these together into a single score and it would throw everything
 | 407 |         4 | Chris Weinberger |   2023 |      3 |  178.8  |
 
 ## Lowest Scoring Weeks
+--- 
+
  |index |   team_id | owner         |   year |   week |   score |
  |----:|----------:|:--------------|-------:|-------:|--------:|
  |  89 |         8 | james cho     |   2021 |      8 |   46.3  |
@@ -60,101 +64,103 @@ ESPN just lumps these together into a single score and it would throw everything
  | 158 |        10 | Alex Newell   |   2021 |     14 |   73.34 |
 
 ## Season Averages by owner
-|                            |   team_id |   week |   score |
- |:---------------------------|----------:|-------:|--------:|
- | ('Abby Tanner', 2021)      |         6 |    7.5 | 118.689 |
- | ('Abby Tanner', 2022)      |         6 |    8.5 | 130.798 |
- | ('Abby Tanner', 2023)      |         6 |    8.5 | 120.804 |
- | ('Abby Tanner', 2024)      |         6 |    8.5 | 129.211 |
- | ('Abby Tanner', 2025)      |         6 |    8.5 | 120.831 |
- | ('Alex Newell', 2021)      |        10 |    7.5 | 122.667 |
- | ('Alex Newell', 2022)      |        10 |    8.5 | 122.281 |
- | ('Alex Newell', 2023)      |        10 |    8.5 | 127.912 |
- | ('Alex Newell', 2024)      |        10 |    8.5 | 137.376 |
- | ('Alex Newell', 2025)      |        10 |    8.5 | 123.411 |
- | ('Bradly Sternig', 2021)   |         7 |    7.5 | 139.623 |
- | ('Bradly Sternig', 2022)   |         7 |    8.5 | 130.734 |
- | ('Bradly Sternig', 2023)   |         7 |    8.5 | 127.704 |
- | ('Bradly Sternig', 2024)   |         7 |    8.5 | 140.387 |
- | ('Bradly Sternig', 2025)   |         7 |    8.5 | 134.186 |
- | ('Chris Weinberger', 2021) |         4 |    7.5 | 139.439 |
- | ('Chris Weinberger', 2022) |         4 |    8.5 | 131.583 |
- | ('Chris Weinberger', 2023) |         4 |    8.5 | 131.754 |
- | ('Chris Weinberger', 2024) |         4 |    8.5 | 132.035 |
- | ('Chris Weinberger', 2025) |         4 |    8.5 | 116.25  |
- | ('Eric Schwan', 2021)      |         9 |    7.5 | 113.32  |
- | ('Eric Schwan', 2022)      |         9 |    8.5 | 107.95  |
- | ('Eric Schwan', 2023)      |         9 |    8.5 | 110.87  |
- | ('Eric Schwan', 2024)      |         9 |    8.5 | 123.255 |
- | ('Eric Schwan', 2025)      |         9 |    8.5 | 124.996 |
- | ('Joe Gantenbein', 2021)   |         5 |    7.5 | 134.126 |
- | ('Joe Gantenbein', 2022)   |         5 |    8.5 | 125.319 |
- | ('Joe Gantenbein', 2023)   |         5 |    8.5 | 133.399 |
- | ('Joe Gantenbein', 2024)   |         5 |    8.5 | 115.886 |
- | ('Joe Gantenbein', 2025)   |         5 |    8.5 | 131.786 |
- | ('Kevin Grasse', 2022)     |         8 |    8.5 | 113.642 |
- | ('Kevin Grasse', 2023)     |         8 |    8.5 | 124.196 |
- | ('Kevin Grasse', 2024)     |         8 |    8.5 | 121.006 |
- | ('Kevin Grasse', 2025)     |         8 |    8.5 | 122.201 |
- | ('Maciej Batura', 2021)    |         3 |    7.5 | 120.767 |
- | ('Matt Dodd', 2021)        |        11 |    7.5 | 126.664 |
- | ('Matt Dodd', 2022)        |        11 |    8.5 | 108.796 |
- | ('Matt Dodd', 2023)        |        11 |    8.5 | 113.629 |
- | ('Matt Dodd', 2024)        |        11 |    8.5 | 125.41  |
- | ('Matt Dodd', 2025)        |        11 |    8.5 | 124.338 |
- | ('Matthew Tripp', 2025)    |         3 |    8.5 | 131.751 |
- | ('Ori Powers', 2022)       |         3 |    8.5 | 119.101 |
- | ('Ori Powers', 2023)       |         3 |    8.5 | 131.722 |
- | ('Ori Powers', 2024)       |         3 |    8.5 | 115.739 |
- | ('Sam Latto', 2021)        |        12 |    7.5 | 139.741 |
- | ('Sam Latto', 2022)        |        12 |    8.5 | 119.699 |
- | ('Sam Latto', 2023)        |        12 |    8.5 | 128.825 |
- | ('Sam Latto', 2024)        |        12 |    8.5 | 130.326 |
- | ('Sam Latto', 2025)        |        12 |    8.5 | 103.104 |
- | ('Stephen Idlas', 2021)    |         2 |    7.5 | 111.467 |
- | ('Stephen Idlas', 2022)    |         2 |    8.5 | 118.916 |
- | ('Stephen Idlas', 2023)    |         2 |    8.5 | 118.733 |
- | ('Stephen Idlas', 2024)    |         2 |    8.5 | 136.216 |
- | ('Stephen Idlas', 2025)    |         2 |    8.5 | 115.696 |
- | ('Troy VanDeVoort', 2021)  |         1 |    7.5 | 139.263 |
- | ('Troy VanDeVoort', 2022)  |         1 |    8.5 | 140.213 |
- | ('Troy VanDeVoort', 2023)  |         1 |    8.5 | 131.106 |
- | ('Troy Vandevoort', 2024)  |         1 |    8.5 | 149.276 |
- | ('Troy Vandevoort', 2025)  |         1 |    8.5 | 148.501 |
- | ('james cho', 2021)        |         8 |    7.5 | 101.299 |
+--- 
+
+|                            |  Average Week score |
+ |:---------------------------|--------:|
+ | ('Abby Tanner', 2021)      | 118.689 |
+ | ('Abby Tanner', 2022)      | 130.798 |
+ | ('Abby Tanner', 2023)      | 120.804 |
+ | ('Abby Tanner', 2024)      | 129.211 |
+ | ('Abby Tanner', 2025)      | 120.831 |
+ | ('Alex Newell', 2021)      | 122.667 |
+ | ('Alex Newell', 2022)      | 122.281 |
+ | ('Alex Newell', 2023)      | 127.912 |
+ | ('Alex Newell', 2024)      | 137.376 |
+ | ('Alex Newell', 2025)      | 123.411 |
+ | ('Bradly Sternig', 2021)   | 139.623 |
+ | ('Bradly Sternig', 2022)   | 130.734 |
+ | ('Bradly Sternig', 2023)   | 127.704 |
+ | ('Bradly Sternig', 2024)   | 140.387 |
+ | ('Bradly Sternig', 2025)   | 134.186 |
+ | ('Chris Weinberger', 2021) | 139.439 |
+ | ('Chris Weinberger', 2022) | 131.583 |
+ | ('Chris Weinberger', 2023) | 131.754 |
+ | ('Chris Weinberger', 2024) | 132.035 |
+ | ('Chris Weinberger', 2025) | 116.25  |
+ | ('Eric Schwan', 2021)      | 113.32  |
+ | ('Eric Schwan', 2022)      | 107.95  |
+ | ('Eric Schwan', 2023)      | 110.87  |
+ | ('Eric Schwan', 2024)      | 123.255 |
+ | ('Eric Schwan', 2025)      | 124.996 |
+ | ('Joe Gantenbein', 2021)   | 134.126 |
+ | ('Joe Gantenbein', 2022)   | 125.319 |
+ | ('Joe Gantenbein', 2023)   | 133.399 |
+ | ('Joe Gantenbein', 2024)   | 115.886 |
+ | ('Joe Gantenbein', 2025)   | 131.786 |
+ | ('Kevin Grasse', 2022)     | 113.642 |
+ | ('Kevin Grasse', 2023)     | 124.196 |
+ | ('Kevin Grasse', 2024)     | 121.006 |
+ | ('Kevin Grasse', 2025)     | 122.201 |
+ | ('Maciej Batura', 2021)    | 120.767 |
+ | ('Matt Dodd', 2021)        | 126.664 |
+ | ('Matt Dodd', 2022)        | 108.796 |
+ | ('Matt Dodd', 2023)        | 113.629 |
+ | ('Matt Dodd', 2024)        | 125.41  |
+ | ('Matt Dodd', 2025)        | 124.338 |
+ | ('Matthew Tripp', 2025)    | 131.751 |
+ | ('Ori Powers', 2022)       | 119.101 |
+ | ('Ori Powers', 2023)       | 131.722 |
+ | ('Ori Powers', 2024)       | 115.739 |
+ | ('Sam Latto', 2021)        | 139.741 |
+ | ('Sam Latto', 2022)        | 119.699 |
+ | ('Sam Latto', 2023)        | 128.825 |
+ | ('Sam Latto', 2024)        | 130.326 |
+ | ('Sam Latto', 2025)        | 103.104 |
+ | ('Stephen Idlas', 2021)    | 111.467 |
+ | ('Stephen Idlas', 2022)    | 118.916 |
+ | ('Stephen Idlas', 2023)    | 118.733 |
+ | ('Stephen Idlas', 2024)    | 136.216 |
+ | ('Stephen Idlas', 2025)    | 115.696 |
+ | ('Troy VanDeVoort', 2021)  | 139.263 |
+ | ('Troy VanDeVoort', 2022)  | 140.213 |
+ | ('Troy VanDeVoort', 2023)  | 131.106 |
+ | ('Troy Vandevoort', 2024)  | 149.276 |
+ | ('Troy Vandevoort', 2025)  | 148.501 |
+ | ('james cho', 2021)        | 101.299 |
 
 ## All-time Averages by Owner
 --- 
 
-| owner            |   team_id |    week |   score |
- |:-----------------|----------:|--------:|--------:|
- | Troy Vandevoort  |         1 | 8.5     | 148.889 |
- | Troy VanDeVoort  |         1 | 8.16667 | 136.861 |
- | Bradly Sternig   |         7 | 8.3     | 134.527 |
- | Matthew Tripp    |         3 | 8.5     | 131.751 |
- | Chris Weinberger |         4 | 8.3     | 130.212 |
- | Joe Gantenbein   |         5 | 8.3     | 128.103 |
- | Alex Newell      |        10 | 8.3     | 126.73  |
- | Sam Latto        |        12 | 8.3     | 124.339 |
- | Abby Tanner      |         6 | 8.3     | 124.066 |
- | Ori Powers       |         3 | 8.5     | 122.188 |
- | Maciej Batura    |         3 | 7.5     | 120.767 |
- | Kevin Grasse     |         8 | 8.5     | 120.262 |
- | Stephen Idlas    |         2 | 8.3     | 120.206 |
- | Matt Dodd        |        11 | 8.3     | 119.767 |
- | Eric Schwan      |         9 | 8.3     | 116.078 |
- | james cho        |         8 | 7.5     | 101.299 |
+| owner            |   Average week score |
+ |:-----------------:|--------:|
+ | Troy Vandevoort   | 148.889 |
+ | Troy VanDeVoort   | 136.861 |
+ | Bradly Sternig    | 134.527 |
+ | Matthew Tripp     | 131.751 |
+ | Chris Weinberger  | 130.212 |
+ | Joe Gantenbein    | 128.103 |
+ | Alex Newell       | 126.73  |
+ | Sam Latto         | 124.339 |
+ | Abby Tanner       | 124.066 |
+ | Ori Powers        | 122.188 |
+ | Maciej Batura     | 120.767 |
+ | Kevin Grasse      | 120.262 |
+ | Stephen Idlas     | 120.206 |
+ | Matt Dodd         | 119.767 |
+ | Eric Schwan       | 116.078 |
+ | james cho         | 101.299 |
 
 ## Season Averages for All Owner
 --- 
 
-|   year |   team_id |   week |   score |
- |-------|----------|-------|--------|
- |   2024 |       6.5 |    8.5 | 129.677 |
- |   2021 |       6.5 |    7.5 | 125.589 |
- |   2023 |       6.5 |    8.5 | 125.054 |
- |   2025 |       6.5 |    8.5 | 124.754 |
- |   2022 |       6.5 |    8.5 | 122.419 |
+|   year |  Average Week score |
+ |-------|--------|
+ |   2024 | 129.677 |
+ |   2021 | 125.589 |
+ |   2023 | 125.054 |
+ |   2025 | 124.754 |
+ |   2022 | 122.419 |
 
 # Sacko Preview
 Well we all knew this day was coming but it is now official, Team Half Chubb is your 2025 Sacko loser and will suffer the new bowling scoring punishment. 
@@ -166,6 +172,8 @@ Not only am I your glorious leader NPL commissioner, but also the foremost inves
 Therefore, I have compiled for you below a complete bowler profile for Sam Latto so that you can join us in eagerly anticipating this painful event.
 
 ![latto pic]({{ site.url }}/media/lattopic.png)
+--- 
+
 | Name | Nickname | Shoe Size | Preferred Ball Weight | Favorite Bowling Snack |
 |-----:|---------:|----------:|----------------------:|-----------------------:|
 | Sam Latto | Gattica | 11.5 (Mens) | 10 lbs | Famous Dave's, Light Beer (Tie) |
