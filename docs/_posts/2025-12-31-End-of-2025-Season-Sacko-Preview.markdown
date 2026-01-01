@@ -144,8 +144,10 @@ ESPN just lumps these together into a single score and it would throw everything
  | james cho        |         8 | 7.5     | 101.299 |
 
 ## Season Averages for All Owner
+--- 
+
 |   year |   team_id |   week |   score |
- |-------:|----------:|-------:|--------:|
+ |-------|----------|-------|--------|
  |   2024 |       6.5 |    8.5 | 129.677 |
  |   2021 |       6.5 |    7.5 | 125.589 |
  |   2023 |       6.5 |    8.5 | 125.054 |
@@ -158,7 +160,7 @@ This appropriately named squad brought some of the weakest performances in NPL h
 Nonetheless, Latto will be forced to enter a bowling alley and can't leave until he has scored 2041 points. 
 He will be aided in this endeavor by a 50 point allocation for each beer he finishes during the bowling matches. 
 We are all familiar with Latto's beer-drinking player profile, but maybe not so much for bowling. 
-Not only am I your esteemed NPL commissioner, but also the foremost investigative journalist and beat reporter. 
+Not only am I your glorious leader NPL commissioner, but also the foremost investigative journalist and beat reporter. 
 Therefore, I have compiled for you below a complete bowler profile for Sam Latto so that you can join us in eagerly anticipating this painful event.
 
 ![latto pic]({{ site.url }}/media/lattopic.png)
