@@ -25,12 +25,14 @@ I was feeling dejected and as I walked past the Detroit library, the inscribed q
 
 "The only true wealth is wealth of the mind."
 
-![Detroit library, wealth of the mind.]({{ site.url }}/media/detroit_library.png)
+![Detroit library, wealth of the mind.]({{ site.url }}/media/detroit_library.jpg)
 
 This is, of course, referring to the elite ball knowledge required to compete in the NPL and it is my esteemed honor to serve as the Omnipotent Eternal Commissioner; I can't let the Sacko down, I needed to find Latto and bring him to justice.
 
 Finally, I came upon this statue of George Washington who is weirdly beloved in Detroit, and it all came together.
-![Me and George]({{ site.url }}/media/detroit_washington.png)
+
+![Me and George]({{ site.url }}/media/detroit_washington.jpg)
+
 Latto, the undying patriot that he is, had left Detroit and gone searching for Red Coats across the Delaware.
 You can run but you can't hide old man.
 
