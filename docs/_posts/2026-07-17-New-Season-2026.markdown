@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Welcome to the 2026 Off-season"
+date:   2026-07-17 10:46:08 -0600
+categories: jekyll update
+---
+Over the past few weeks I have suffered the same affliction that many of my fellow Americans have fallen to over the same period, watching soccer on television.
+It seemed cool at first when you think about how team USA had more children of Super Bowl Champions than all other countries in history, combined (GPG).
+However it turns out no one in the FIFA cares about Super Bowls and I resigned to the same conclusion that most of my red-blooded countrymen will affirm.
+
+This sucks, I can't wait for NFL to start again.
+
+To ease my impatience I decided to start making preparations in accordance with my duties as your Glorious Infallible Commissioner.
+The most pressing of these duties is addressing the disgraceful disregard for the sanctity of the Sacko displayed by Joe last season, when he finally completed the punishment near the end of the season.
+My steps to address this are two-fold, 1) a rule change will be proposed that the Sackee will lose their first and second round picks if the punishment is incomplete on draft day, and 2) continue calling public attention to the unbowled pins in Latto's life.
+But I, your Almighty Persistent Commissioner, will not rest on my laurels while Latto lives his life happily outside of bowling alleys.
+
+That's right, my only option was to travel 1,268 miles from Denver to Detroit and hunt Latto down like the most dangerous game.
+I checked all the usual spots: BBQ joints, minor league baseball arenas, and every Coney Island Hot Dog shop in downtown.
+Latto was nowhere to be found.
+I inquired with the locals, amongst whom he is very well-known, but they claimed they hadn't seen him in years.
+How could this be possible.
+The greatest Detroit evangelical of our time had seem to have abandoned the city that gave him everything.
+I was feeling dejected and as I walked past the Detroit library, the inscribed quote resonated with me in that moment.
+
+"The only true wealth is wealth of the mind."
+
+![Detroit library, wealth of the mind.]({{ site.url }}/media/detroit_library.png)
+
+This is, of course, referring to the elite ball knowledge required to compete in the NPL and it is my esteemed honor to serve as the Omnipotent Eternal Commissioner; I can't let the Sacko down, I needed to find Latto and bring him to justice.
+
+Finally, I came upon this statue of George Washington who is weirdly beloved in Detroit, and it all came together.
+![Me and George]({{ site.url }}/media/detroit_washington.png)
+Latto, the undying patriot that he is, had left Detroit and gone searching for Red Coats across the Delaware.
+You can run but you can't hide old man.
+
+In addition to draft pick withholding for Sacko Sacrilege, here are the other already proposed rule changes for this year:
+
+1. Randomize the draft order
+2. Add divisions for schedule and playoff qualification
+3. Randomize the schedule (we have played the same schedule every year lol)
+4. I wrote down, "position limit", don't remember what that means, if anyone might know please clarify
+5. The Sacko shall be awarded to the worst record instead of the loser of the Sacko Playoff (I'm not a huge fan of this but it will be in the referendum)
+
+A brief review of the NPL referendum process is as follows:
+
+1. Commissioner will open a request for rule change proposals form for several weeks. Members may submit rule change proposals which will be voted on for adoption in the member referendum. **This includes loser punishments** and any other administrative rule changes in addition to fantasy football rule changes such as scoring, drafting, and roster construction.
+2. The referendum form will be opened for voting at least 3 weeks before the earliest possible draft date. In addition to any proposed rule changes, the referendum will include a poll for draft date availability and league dues.
+3. Rule changes will be enacted, if applicable, and draft will be held as usual.
+
+> [2026 Rule Change Proposals][1].
+
+This will be open for submission until sometime in August when I will send out the member referendum a week or so before it is time to schedule the draft.
+
+[1]:https://forms.gle/qLURycsyJduNvtzDA
