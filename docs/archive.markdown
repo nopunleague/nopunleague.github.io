@@ -14,4 +14,4 @@ permalink: /archive/
 [1]:{{ site.url }}/media/goatparade.pdf
 [2]:{{ site.url }}/media/detroit.pdf
 [3]:<https://www.youtube.com/watch?v=8h6F1DezNqE>
-[4]:{{ site.url }}/pages/latto-sacko-2026.markdown
+[4]:{{ site.url }}/pages/latto-sacko-2026
