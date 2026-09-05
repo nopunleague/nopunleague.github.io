@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archives
+title: Latto Sacko 2026
 permalink: /pages/latto-sacko-26
 ---
 
