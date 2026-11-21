@@ -27,16 +27,16 @@ The basic idea is that we simulate the remainder of the season, including this w
 This gives a way to quantify which teams have the most at stake this week.
 Since the top of the standings are all very close in record, we can now see who still has the most at stake in the final few weeks of the regular season.
 
-![leverage playoffs]({{ site.url }}/media/leverage_playoff_2026_wk11.jpg)
+![leverage playoffs]({{ site.url }}/media/leverage_playoff_2026_wk11.png)
 
 If we add up the leverage swing for each match up, we can see which games are the most impactful for playoff seeding.
 
-![leverage playoffs by game]({{ site.url }}/media/leverage_games_playoff_2026_wk11.jpg)
+![leverage playoffs by game]({{ site.url }}/media/leverage_games_playoff_2026_wk11.png)
 
 ## Week 11 Bye Leverage
 The top 2 seeds receive a first round bye in the NPL playoffs, so we can repeat the same excercise with odds of obtaining a playoff bye.
 
-![leverage bye]({{ site.url }}/media/leverage_bye_2026_wk11.jpg)
+![leverage bye]({{ site.url }}/media/leverage_bye_2026_wk11.png)
 
 ## Week 11 Sacko Leverage
 Just so nobody feels left out, let's include some analysis for Sacko implications. 
@@ -46,6 +46,6 @@ For the bottom two seeds, a win in the second round saves you.
 You could make the argument that this makes all four bottom seeds equally bad, and I think I agree but already generated plots and don't feel like redoing it. 
 So, the Sacko leverage indicates how the outcomes of this weeks games affect each team's odds of obtaining one of the bottom two seeds.
 
-![leverage sacko]({{ site.url }}/media/leverage_sacko_2026_wk11.jpg)
+![leverage sacko]({{ site.url }}/media/leverage_sacko_2026_wk11.png)
 
-![leverage sacko by game]({{ site.url }}/media/leverage_games_sacko_2026_wk11.jpg)
+![leverage sacko by game]({{ site.url }}/media/leverage_games_sacko_2026_wk11.png)
